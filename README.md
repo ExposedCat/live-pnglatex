@@ -17,3 +17,7 @@ Convert TeX formulas to png and autocopy it
 1. Select LaTeX formula
 2. Press hotkey you created in Setup#4 or run `bash lateximage.bash`
 3. Paste image wherever you want using `Ctrl + V` (or `RMC` - `Paste`)
+
+# Author
+Powered by [@ExposedCat](https://t.me/ExposedCat_Info)
+`pnglatex` script taken from [mneri/pnglatex](https://github.com/mneri/pnglatex)
