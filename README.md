@@ -20,4 +20,5 @@ Convert TeX formulas to png and autocopy it
 
 # Author
 Powered by [@ExposedCat](https://t.me/ExposedCat_Info)
+
 `pnglatex` script taken from [mneri/pnglatex](https://github.com/mneri/pnglatex)
